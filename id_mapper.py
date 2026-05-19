@@ -2,8 +2,8 @@ import os
 import json
 
 # Folders
-media_folder = r"F:\PD3 Modding\Tools\FModel\Output\Exports\PAYDAY3\Content\WwiseAudio\Media"
-localized_folder = r"F:\PD3 Modding\Tools\FModel\Output\Exports\PAYDAY3\Content\WwiseAudio\Localized\English_US_\Media"
+media_folder = r"D:\PD3 Modding\Tools\FModel\Output\Exports\PAYDAY3\Content\WwiseAudio\Media"
+localized_folder = r"D:\PD3 Modding\Tools\FModel\Output\Exports\PAYDAY3\Content\WwiseAudio\Localized\English_US_\Media"
 
 # Find ubulk files, return names without extension
 def get_ubulk_file_names(folder):
